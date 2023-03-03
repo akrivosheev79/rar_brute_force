@@ -3,6 +3,7 @@ Utilite for forgotten password recovery
 
 Requires:
     1. Install unrar and add it to PATH
+    2. alph.txt have to locate in the same directory. Copy and edit it
 
 usage: rar_brute_force_3.py [-h] [--chunk_size CHUNK_SIZE] rar pwd_len
 
